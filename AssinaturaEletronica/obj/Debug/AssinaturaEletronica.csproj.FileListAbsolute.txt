@@ -1,0 +1,68 @@
+c:\users\nmagalhaes\documents\visual studio 2013\Projects\AssinaturaEletronica\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.exe.config
+c:\users\nmagalhaes\documents\visual studio 2013\Projects\AssinaturaEletronica\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csprojResolveAssemblyReference.cache
+c:\users\nmagalhaes\documents\visual studio 2013\Projects\AssinaturaEletronica\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.Form1.resources
+c:\users\nmagalhaes\documents\visual studio 2013\Projects\AssinaturaEletronica\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.Properties.Resources.resources
+c:\users\nmagalhaes\documents\visual studio 2013\Projects\AssinaturaEletronica\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csproj.GenerateResource.Cache
+c:\users\nmagalhaes\documents\visual studio 2013\Projects\AssinaturaEletronica\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.exe
+c:\users\nmagalhaes\documents\visual studio 2013\Projects\AssinaturaEletronica\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.pdb
+c:\users\nmagalhaes\documents\visual studio 2013\Projects\AssinaturaEletronica\AssinaturaEletronica\bin\Debug\itextsharp.dll
+c:\users\nmagalhaes\documents\visual studio 2013\Projects\AssinaturaEletronica\AssinaturaEletronica\bin\Debug\itextsharp.xml
+c:\users\nmagalhaes\documents\visual studio 2013\Projects\AssinaturaEletronica\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.exe
+c:\users\nmagalhaes\documents\visual studio 2013\Projects\AssinaturaEletronica\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.pdb
+E:\AssinaturaEletronica - funciona\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.exe.config
+E:\AssinaturaEletronica - funciona\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.exe
+E:\AssinaturaEletronica - funciona\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.pdb
+E:\AssinaturaEletronica - funciona\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csprojResolveAssemblyReference.cache
+E:\AssinaturaEletronica - funciona\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.Form1.resources
+E:\AssinaturaEletronica - funciona\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.Properties.Resources.resources
+E:\AssinaturaEletronica - funciona\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csproj.GenerateResource.Cache
+E:\AssinaturaEletronica - funciona\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.exe
+E:\AssinaturaEletronica - funciona\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.pdb
+E:\AssinaturaEletronica - funciona\AssinaturaEletronica\bin\Debug\itextsharp.dll
+E:\AssinaturaEletronica - funciona\AssinaturaEletronica\bin\Debug\itextsharp.xml
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.exe.config
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.exe
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.pdb
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.exe
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.pdb
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\bin\Debug\pt-BR\AssinaturaEletronica.resources.dll
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\bin\Debug\itextsharp.dll
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\bin\Debug\itextsharp.xml
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csprojResolveAssemblyReference.cache
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.FrmPrincipal.resources
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.Properties.Resources.resources
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.FrmPrincipal.pt-BR.resources
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csproj.GenerateResource.Cache
+C:\Users\lhsilva\Desktop\ASSINAR\AssinaturaEletronica\obj\Debug\pt-BR\AssinaturaEletronica.resources.dll
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.exe.config
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.exe
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.pdb
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.exe
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.pdb
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\bin\Debug\pt-BR\AssinaturaEletronica.resources.dll
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\bin\Debug\itextsharp.dll
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\bin\Debug\itextsharp.xml
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csprojResolveAssemblyReference.cache
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.FrmPrincipal.resources
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.Properties.Resources.resources
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.FrmPrincipal.pt-BR.resources
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csproj.GenerateResource.Cache
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\obj\Debug\pt-BR\AssinaturaEletronica.resources.dll
+Z:\ASSINAR - editado\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.exe.config
+Z:\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.exe
+Z:\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.pdb
+Z:\ASSINAR - editado\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.exe
+Z:\ASSINAR - editado\AssinaturaEletronica\bin\Debug\AssinaturaEletronica.pdb
+Z:\ASSINAR - editado\AssinaturaEletronica\bin\Debug\pt-BR\AssinaturaEletronica.resources.dll
+Z:\ASSINAR - editado\AssinaturaEletronica\bin\Debug\itextsharp.dll
+Z:\ASSINAR - editado\AssinaturaEletronica\bin\Debug\itextsharp.xml
+Z:\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csprojResolveAssemblyReference.cache
+Z:\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.FrmPrincipal.resources
+Z:\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.Properties.Resources.resources
+Z:\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.FrmPrincipal.pt-BR.resources
+Z:\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csproj.GenerateResource.Cache
+Z:\ASSINAR - editado\AssinaturaEletronica\obj\Debug\pt-BR\AssinaturaEletronica.resources.dll
+Z:\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csproj.CoreCompileInputs.cache
+Z:\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csproj.CopyComplete
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\lhsilva\Desktop\ASSINAR - editado\AssinaturaEletronica\obj\Debug\AssinaturaEletronica.csproj.CopyComplete
